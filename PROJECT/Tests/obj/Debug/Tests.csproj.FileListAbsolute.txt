@@ -1,0 +1,25 @@
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\bin\Debug\Tests.dll
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\bin\Debug\Tests.pdb
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\bin\Debug\curs trsbd.exe
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\bin\Debug\AdvancedDataGridView.dll
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\bin\Debug\curs trsbd.pdb
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\bin\Debug\curs trsbd.exe.config
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\obj\Debug\Tests.csproj.Up2Date
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\obj\Debug\Tests.dll
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\Tests\obj\Debug\Tests.pdb

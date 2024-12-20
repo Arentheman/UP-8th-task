@@ -1,0 +1,79 @@
+H:\Курсач трзибд\curs trsbd\curs trsbd\bin\Debug\curs trsbd.exe.config
+H:\Курсач трзибд\curs trsbd\curs trsbd\bin\Debug\curs trsbd.exe
+H:\Курсач трзибд\curs trsbd\curs trsbd\bin\Debug\curs trsbd.pdb
+H:\Курсач трзибд\curs trsbd\curs trsbd\obj\Debug\curs trsbd.csprojAssemblyReference.cache
+H:\Курсач трзибд\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Form1.resources
+H:\Курсач трзибд\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Properties.Resources.resources
+H:\Курсач трзибд\curs trsbd\curs trsbd\obj\Debug\curs trsbd.csproj.GenerateResource.cache
+H:\Курсач трзибд\curs trsbd\curs trsbd\obj\Debug\curs trsbd.csproj.CoreCompileInputs.cache
+H:\Курсач трзибд\curs trsbd\curs trsbd\obj\Debug\curs trsbd.exe
+H:\Курсач трзибд\curs trsbd\curs trsbd\obj\Debug\curs trsbd.pdb
+H:\Курсач трзибд\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Form2.resources
+E:\College\curs_trsbd\curs trsbd\curs trsbd\bin\Debug\curs trsbd.exe.config
+E:\College\curs_trsbd\curs trsbd\curs trsbd\bin\Debug\curs trsbd.exe
+E:\College\curs_trsbd\curs trsbd\curs trsbd\bin\Debug\curs trsbd.pdb
+E:\College\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs trsbd.csproj.AssemblyReference.cache
+E:\College\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Form1.resources
+E:\College\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Properties.Resources.resources
+E:\College\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs trsbd.csproj.GenerateResource.cache
+E:\College\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs trsbd.csproj.CoreCompileInputs.cache
+E:\College\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs trsbd.exe
+E:\College\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs trsbd.pdb
+E:\College\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Form2.resources
+D:\curs_trsbd\curs trsbd\curs trsbd\bin\Debug\curs trsbd.exe.config
+D:\curs_trsbd\curs trsbd\curs trsbd\bin\Debug\curs trsbd.exe
+D:\curs_trsbd\curs trsbd\curs trsbd\bin\Debug\curs trsbd.pdb
+D:\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs trsbd.csproj.AssemblyReference.cache
+D:\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Form1.resources
+D:\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Form2.resources
+D:\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Properties.Resources.resources
+D:\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs trsbd.csproj.GenerateResource.cache
+D:\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs trsbd.csproj.CoreCompileInputs.cache
+D:\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs trsbd.exe
+D:\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs trsbd.pdb
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\bin\Debug\curs trsbd.exe.config
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\bin\Debug\curs trsbd.exe
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\bin\Debug\curs trsbd.pdb
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs trsbd.csproj.AssemblyReference.cache
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Properties.Resources.resources
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs trsbd.csproj.GenerateResource.cache
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs trsbd.csproj.CoreCompileInputs.cache
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs trsbd.exe
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs trsbd.pdb
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Authorization.resources
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Client.resources
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Manager.resources
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Operator.resources
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\bin\Debug\curs trsbd.exe.config
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\bin\Debug\curs trsbd.exe
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\bin\Debug\curs trsbd.pdb
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs trsbd.csproj.AssemblyReference.cache
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Authorization.resources
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Client.resources
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Manager.resources
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Operator.resources
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Properties.Resources.resources
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs trsbd.csproj.GenerateResource.cache
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs trsbd.csproj.CoreCompileInputs.cache
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs trsbd.exe
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs trsbd.pdb
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Logs.resources
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Logs.resources
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Master.resources
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.MasterChange.resources
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.OperatorChange.resources
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.Master.resources
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.MasterChange.resources
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.OperatorChange.resources
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.ClientChange.resources
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.ClientChange.resources
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\bin\Debug\AdvancedDataGridView.dll
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs trsbd.csproj.Up2Date
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\bin\Debug\AdvancedDataGridView.dll
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs trsbd.csproj.Up2Date
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.ManagerChange.resources
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\bin\Debug\QRCoder.dll
+F:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.QR.resources
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\bin\Debug\QRCoder.dll
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.ManagerChange.resources
+D:\4 курс\УП 02.01\curs_trsbd\curs trsbd\curs trsbd\obj\Debug\curs_trsbd.QR.resources
